@@ -1,5 +1,5 @@
 import arcade
-from .functions import draw_two, draw_four
+from functions import draw_two, draw_four
 
 # Constants
 SCREEN_TITLE = "Python Image"
